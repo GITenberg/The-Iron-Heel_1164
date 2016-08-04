@@ -1,0 +1,60 @@
+_repo: The-Iron-Heel_1164
+_version: 0.0.1
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+description: "The Iron Heel is a dystopian novel by American writer Jack London, first\
+  \ published in 1908.\nGenerally considered to be \"the earliest of the modern Dystopian\"\
+  , it chronicles the rise of an oligarchic tyranny in the United States. It is arguably\
+  \ the novel in which Jack London's socialist views are most explicitly on display.\
+  \ A forerunner of soft science fiction novels and stories of the 1960s and '70s,\
+  \ the book stresses future changes in society and politics while paying much less\
+  \ attention to technological changes.\nThe book is unusual among London's writings\
+  \ (and in the literature of the time in general) in being a first-person narrative\
+  \ of a woman protagonist written by a man. Much of the narrative is set in the San\
+  \ Francisco Bay Area, including events in San Francisco and Sonoma County.\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1164'
+  wikidata: Q2465752
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political fiction'
+- !lcsh 'Dystopias -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Revolutionaries -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Oligarchy -- Fiction'
+- !lcsh 'Socialism -- Fiction'
+- !lcsh 'Revolutions -- Fiction'
+- GITenberg
+title: The Iron Heel
+url: http://www.gutenberg.org/ebooks/1164
+wikipedia:
+- https://eo.wikipedia.org/wiki/La_Fera_Kalkanumo
+- https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D8%B9%D9%82%D8%A8_%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AF%D9%8A%D8%A9
+- https://uk.wikipedia.org/wiki/%D0%97%D0%B0%D0%BB%D1%96%D0%B7%D0%BD%D0%B0_%D0%BF%27%D1%8F%D1%82%D0%B0
+- https://ru.wikiquote.org/wiki/%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%B0%D1%8F_%D0%BF%D1%8F%D1%82%D0%B0_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D8%B4%D9%86%D9%87_%D8%A2%D9%87%D9%86%DB%8C%D9%86
+- https://de.wikipedia.org/wiki/Die_eiserne_Ferse
+- https://fr.wikipedia.org/wiki/Le_Talon_de_fer
+- https://es.wikipedia.org/wiki/El_tal%C3%B3n_de_hierro
+- https://pa.wikipedia.org/wiki/%E0%A8%A6_%E0%A8%86%E0%A8%87%E0%A8%B0%E0%A8%A8_%E0%A8%B9%E0%A9%80%E0%A8%B2
+- https://en.wikipedia.org/wiki/The_Iron_Heel
+- https://it.wikipedia.org/wiki/Il_tallone_di_ferro
+- https://tr.wikipedia.org/wiki/Demir_%C3%96k%C3%A7e
+- https://ru.wikipedia.org/wiki/%D0%96%D0%B5%D0%BB%D0%B5%D0%B7%D0%BD%D0%B0%D1%8F_%D0%BF%D1%8F%D1%82%D0%B0_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://ro.wikipedia.org/wiki/C%C4%83lc%C3%A2iul_de_fier
+- https://ko.wikipedia.org/wiki/%EA%B0%95%EC%B2%A0%EA%B5%B0%ED%99%94
+- https://fr.wikisource.org/wiki/Le_Talon_de_fer
